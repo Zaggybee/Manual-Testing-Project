@@ -7,7 +7,7 @@ This project showcases a manual testing project, consisting of various test case
 The project contains the following four Excel files:
 
 1. **OpenCart-Test Scenarios.xlsx**: This file outlines the test scenarios that were considered for testing the application. Each scenario provides a high-level description of what needs to be tested.
-2. **OpenCart-RTM.xlsx**: 
+2. **OpenCart-RTM.xlsx**: This document links requirements throughout the validation process.
 
 3. **OpenCart-BugReport.xlsx**: This file contains the details of any defects found during the testing process. It includes information such as defect ID, description, severity, priority, steps to reproduce, and status.
 
